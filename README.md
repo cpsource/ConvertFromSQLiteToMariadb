@@ -101,4 +101,5 @@ This script is provided "as-is" without any express or implied warranties.
 
 ---
 
-This `README.md` should help a system administrator understand how to use your script effectively. Let me know if you need any modifications!
+This `README.md` should help a system administrator understand how to use your script effectively. Let me know if you need any modifications! (This script and doc was written by ChatGPT 4.o in about ten minutes with some prompts from @cpsource.)
+
